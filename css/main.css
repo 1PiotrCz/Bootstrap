@@ -33,3 +33,7 @@ padding-bottom: 20px;
 label {
 	color: #fff;
 }
+
+input [type="submit"]{
+	width: 100px;
+}
